@@ -7,11 +7,11 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Wolf's Wishlist`,
-    siteTitleAlt: `Wolf's Wishlist`,
-    siteHeadline: `Wolf's Wishlist`,
+    siteTitle: `Arend's Wishlist`,
+    siteTitleAlt: `Arend's Wishlist`,
+    siteHeadline: `Arend's Wishlist`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Wolf's Wishlist`,
+    siteDescription: `Arend's Wishlist`,
     siteLanguage: `nl`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
